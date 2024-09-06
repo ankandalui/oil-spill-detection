@@ -6,15 +6,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/d-elicio?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/d-elicio/Oil-Spill-Detection-in-SAR-images)
 
-Design and implementation of Image Processing segmentation
-techniques and algorithms for oil spill detection on SAR images
-## 🚀 About Me
-I'm a computer science Master's Degree student and this is one of my university project. 
-See my other projects here on [GitHub](https://github.com/d-elicio)!
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://d-elicio.github.io)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenico-elicio/)
-
 
 # 💻 The project
 
@@ -65,11 +56,7 @@ See my other projects here on [GitHub](https://github.com/d-elicio)!
 
 - Obviously, some methods are better than others and this depends on the *image quality*, the *presence of noise*, the *total brightness* of the image, the *overall contrast*, etc., but **the user can modify some parameters** for every method **to improve segmentation results**.
 
-### Documentation
-
-- To understand better the code of this segmentation project please see the [code explanation file](https://github.com/d-elicio/Oil-Spill-Detection-in-SAR-images/blob/main/Code%20explanation%20(technical%20implementation).pdf).
-
 ## Support
 
-For any support, error corrections, etc. please email me at domenico.elicio13@gmail.com
+For any support, error corrections, etc. please email me at adalui260@gmail.com
 
